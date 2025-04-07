@@ -9,7 +9,8 @@ public class day1 {
 
 	@AfterTest
 	public void lastExecution() {
-		System.out.println("I will execute at last");
+		System.out.println("I will execute last");
+		System.out.println("I will execute last");
 	}
 	@Parameters({"URL","APIkey/username"})
 	@Test
@@ -21,7 +22,7 @@ public class day1 {
 	}
 	@AfterSuite
 	public void afSuite() {
-		System.out.println("I am last suite");
+		System.out.println("I last suite");
 	}
 	
 	@Test
