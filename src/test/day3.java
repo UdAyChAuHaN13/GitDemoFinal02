@@ -14,9 +14,29 @@ public class day3 {
 	@BeforeClass
 	public void beforClas() {
 		System.out.println("I will print before class");
+		System.out.println("I will print before class");
+		System.out.println("I will print before class");
+		System.out.println("I will print before class");
+		System.out.println("I will print before class");
+		System.out.println("I will print before class");
+		System.out.println("I will print before class");
+		System.out.println("I will print before class");
+		System.out.println("I will print before class");
+		System.out.println("I will print before class");
+		System.out.println("I will print before class");
 	}
 	@AfterClass
 	public void afterClas() {
+		System.out.println("I will print after class");
+		System.out.println("I will print after class");
+		System.out.println("I will print after class");
+		System.out.println("I will print after class");
+		System.out.println("I will print after class");
+		System.out.println("I will print after class");
+		System.out.println("I will print after class");
+		System.out.println("I will print after class");
+		System.out.println("I will print after class");
+		System.out.println("I will print after class");
 		System.out.println("I will print after class");
 	}
 	@Parameters({"URL"})

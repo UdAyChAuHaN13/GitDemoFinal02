@@ -15,6 +15,11 @@ public class day4 {
 	public void mobileLoginHomeLoan() {
 		//Appium
 		System.out.println("mobile login home");
+		System.out.println("mobile login home");
+		System.out.println("mobile login home");
+		System.out.println("mobile login home");
+		System.out.println("mobile login home");
+		System.out.println("mobile login home");
 	}
 	
 	@Test
